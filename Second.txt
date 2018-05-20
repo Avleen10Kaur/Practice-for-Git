@@ -1,1 +1,1 @@
-this is the second copy of details in git tutorials ... hello how r u!!
+ti changed this file...now i am going to add another one yeah..
